@@ -2,11 +2,11 @@
 
 /* ==============================================================
  *
- * Python3
+ * R
  *
  * ==============================================================
  *
- * @copyright  2014 Richard Lobb, University of Canterbury
+ * @copyright  2018, Dimitri Vorona, TU Munich
  * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 
